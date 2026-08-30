@@ -142,6 +142,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="FileHandle.h" />
+    <ClInclude Include="FileHandle2.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="FileHandle.cpp" />

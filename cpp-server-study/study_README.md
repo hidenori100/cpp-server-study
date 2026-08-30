@@ -1,4 +1,4 @@
-# cpp-server-study
+﻿# cpp-server-study
 
 C++ 게임서버를 **밑바닥부터 직접 만들면서** 이해하는 학습 저장소.
 
@@ -16,7 +16,7 @@ C++ 게임서버를 **밑바닥부터 직접 만들면서** 이해하는 학습 
 | 단계 | 주제 | 상태 | 기록 |
 |------|------|------|------|
 | STEP 0-1 | Rule of Five — 이중 해제, ASan, 이동 시맨틱 | ✅ 완료 | [velog](https://velog.io/@hidenori100/C-Rule-of-Five-%EC%9D%B4%EC%A4%91-%ED%95%B4%EC%A0%9C-ASan-%EC%9D%B4%EB%8F%99-%EC%8B%9C%EB%A7%A8%ED%8B%B1) |
-| STEP 0-2 | Rule of Zero — unique_ptr + 커스텀 deleter | 🔜 진행 예정 | |
+| STEP 0-2 | Rule of Zero — unique_ptr + 커스텀 deleter, EBO | ✅ 완료 | velog 예정 |
 | STEP 0-3 | shared_ptr 제어 블록, shared_from_this | | |
 | STEP 0-4 | 미니 ObjectPool | | |
 | STEP 0-5 | 비동기 keep-alive 이디엄 | | |
