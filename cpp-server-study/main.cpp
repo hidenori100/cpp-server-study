@@ -1,6 +1,6 @@
 ﻿#include "FileHandle.h"
 #include "FileHandle2.h"
-
+#include "Widget.h"
 int main()
 {
 
@@ -12,7 +12,7 @@ int main()
         FileHandle c("c.txt");
         c = std::move(b);              // c.txt 닫힘(1회), c는 a.txt 소유
     }
-    if (1 == 1)
+    if (1 == 2)
     {
         FileHandle2 a("a.txt");
 
@@ -28,7 +28,10 @@ int main()
 
 
     }
-
+    if (1 == 1)
+    {
+        ExperimentB();
+    }
 
     return 0;
 }

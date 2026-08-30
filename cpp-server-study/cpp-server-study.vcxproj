@@ -143,6 +143,7 @@
   <ItemGroup>
     <ClInclude Include="FileHandle.h" />
     <ClInclude Include="FileHandle2.h" />
+    <ClInclude Include="Widget.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="FileHandle.cpp" />
