@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.user
+
+# Build outputs
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Oo]bj/
+[Bb]in/
+
+# Build artifacts
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.log
+*.tlog
+
+# Claude Code context (not committed)
+CLAUDE.md
